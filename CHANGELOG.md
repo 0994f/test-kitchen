@@ -4,7 +4,7 @@
 
 * [KITCHEN-23] - Generated Kitchenfile should honor cookbook name from metadata.rb
 
-### Improvement
+### Improvement - test
 
 * [KITCHEN-40] - If a cookbook project is included in the default Cheffile, librarian errors out
 
