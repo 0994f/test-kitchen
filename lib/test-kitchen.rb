@@ -26,7 +26,7 @@ require 'test-kitchen/version'
 module TestKitchen
 
   # The source root is the path to the root directory of
-  # the test-kitchen gem.
+  # the test-kitchen gem. Test change.
   def self.source_root
     @source_root ||= Pathname.new(File.expand_path('../../', __FILE__))
   end
